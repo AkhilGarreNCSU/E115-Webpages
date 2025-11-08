@@ -1,0 +1,23 @@
+﻿commit 1110fe45f74d4c380f4df733d36abe07aece714d
+Author: AkhilGarre <Akhilgarre@gmail.com>
+Date:   Sat Nov 8 15:16:01 2025 -0500
+
+    updates to my webpage and stylesheet
+
+commit 194abb2c0f4483185c3d46023dba71bba3ffa6a5
+Author: AkhilGarre <Akhilgarre@gmail.com>
+Date:   Sat Nov 8 14:28:40 2025 -0500
+
+    Webpages sent in
+
+commit b04f090e320a0f723fa34f4378eeeceb67f9376c
+Author: AkhilGarre <Akhilgarre@gmail.com>
+Date:   Sat Nov 8 14:25:15 2025 -0500
+
+    adding template files
+
+commit c6a5beadbf9f3bb43895a74f1267da4b51d3e91c
+Author: AkhilGarreNCSU <agarre@ncsu.edu>
+Date:   Fri Jun 20 16:58:56 2025 -0400
+
+    exam.html
